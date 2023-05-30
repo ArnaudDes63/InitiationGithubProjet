@@ -15,3 +15,17 @@ p {
   border: 1px solid black;
   width: 80%;
 }
+
+/* Tableau */
+
+table,
+td 
+{
+    border: 1px solid #333;
+}
+
+thead
+{
+    background-color: #333;
+    color: #fff;
+}
